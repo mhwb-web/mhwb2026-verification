@@ -1,5 +1,5 @@
 const API_URL =
-"https://script.google.com/a/macros/mnnit.ac.in/s/AKfycbzUGyhQcsU89shb1axzE4qqLZngM_75TqWQiPUGykdTCQbMFhSfvYapQVks9XkaBEOF/exec";
+"https://script.google.com/macros/s/AKfycbyrW3osIqsC_Snfw3L2BIuN-jPi44NahAQlTiFd52pfJTOU3vIa_cb32Pbyhxq3RCFR/exec";
 
 async function verifyCertificate() {
 
