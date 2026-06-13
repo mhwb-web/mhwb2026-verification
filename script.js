@@ -105,9 +105,9 @@ html=`
 <div class="actions">
 
 <a class="btn"
-href="${data.certificateUrl}"
-target="data.mergedDocLink">
-View Certificate
+href="mailto:mhwb@mnnit.ac.in?subject=Certificate Access Request - ${data.certificateNo}&body=Dear MHWB Team,%0D%0A%0D%0AI would like to request access to view my certificate.%0D%0A%0D%0ACertificate Number: ${data.certificateNo}%0D%0AName: ${data.name}%0D%0AInstitute: ${data.institute}%0D%0AEmail: ${data.email}%0D%0A%0D%0ARegards,"
+>
+Request Certificate Access
 </a>
 </div>
 
