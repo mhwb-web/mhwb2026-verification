@@ -106,15 +106,11 @@ html=`
 
 <a class="btn"
 href="${data.certificateUrl}"
-target="_blank">
+target="mergedDocLink">
 View Certificate
 </a>
 
-<a class="btn"
-href="${data.mergedDocLink}"
-target="_blank">
-Open Merged Document
-</a>
+
 
 </div>
 
