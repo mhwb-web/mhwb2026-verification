@@ -106,12 +106,9 @@ html=`
 
 <a class="btn"
 href="${data.certificateUrl}"
-target="mergedDocLink">
+target="data.mergedDocLink">
 View Certificate
 </a>
-
-
-
 </div>
 
 </div>
