@@ -38,6 +38,7 @@ async function verifyCertificate() {
   }
 }
 
+
 function showResult(data){
 
 let html='';
